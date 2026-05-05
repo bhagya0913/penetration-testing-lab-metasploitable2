@@ -33,4 +33,5 @@ Outcome:
 Demonstrated full system compromise
 Provided remediation strategies for all vulnerabilities
 
-📄 Full Report: (upload your PDF and link here)# penetration-testing-lab-metasploitable2
+📄 Full Report: [(upload your PDF and link here)# penetration-testing-lab-metasploitable2](https://github.com/bhagya0913/penetration-testing-lab-metasploitable2/blob/main/Black-Box%20Penetration%20Testing%20Report%20(Metasploitable%202).pdf)
+
